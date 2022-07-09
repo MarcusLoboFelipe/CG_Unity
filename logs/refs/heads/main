@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 9501c1f4a480df46dbf28b6226a48f45478c8c9f thayllerms <thayllerm@gmail.com> 1628878729 -0300	clone: from https://github.com/thayllerms/Thabalho-Unity_CG.git
+9501c1f4a480df46dbf28b6226a48f45478c8c9f f11fd0400079cf6a6849178fe5d81989106a4da6 thayllerms <thayllerm@gmail.com> 1628880986 -0300	commit: Add TP-CG
+f11fd0400079cf6a6849178fe5d81989106a4da6 c70ea547b7a1889de469223becfebc77c58d3d1b thayllerms <thayllerm@gmail.com> 1628883795 -0300	pull --progress origin: Fast-forward
+c70ea547b7a1889de469223becfebc77c58d3d1b 688735d503e5a6c4cd7c4e97dc34782a465ae647 thayllerms <thayllerm@gmail.com> 1628883831 -0300	revert: Revert "Update name."
